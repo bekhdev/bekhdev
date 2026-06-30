@@ -1,47 +1,115 @@
-# Hi there 👋 I'm Bekh
+<div align="center">
 
-## 💻 Backend Developer from Uzbekistan 🇺🇿
+# 👋 Hello, I'm Bekh
 
-I'm passionate about building scalable web applications and Telegram bots. I enjoy learning new technologies and creating clean, reliable, and maintainable code.
+### 🚀 Python Backend Developer • Django • DRF • Aiogram
 
----
-
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Building+Telegram+Bots;Django+%26+Django+REST+Framework;Always+Learning+New+Things" />
 
 ---
 
-## 📈 GitHub Stats
+<img src="https://komarev.com/ghpvc/?username=bekhdev&label=Profile%20Views&color=22c55e&style=for-the-badge"/>
 
-![Bekh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bekhdev\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bekhdev\&layout=compact\&theme=tokyonight\&hide_border=true)
+</div>
 
 ---
 
-## 🌱 Currently Learning
+# 💫 About Me
 
-* Advanced Django
-* REST API Architecture
+🐍 Python Backend Developer from **Uzbekistan 🇺🇿**
+
+I enjoy building reliable backend systems, REST APIs, and Telegram bots using modern Python technologies. I continuously improve my skills by creating real-world projects and learning new tools.
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,git,github,html,css"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bekhdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekhdev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bekhdev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekhdev&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bekhdev/bekhdev/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** Snake animatsiyasi ishlashi uchun GitHub Actions orqali alohida workflow sozlash kerak.
+
+---
+
+# 🎯 Currently Learning
+
+* Django REST Framework
+* PostgreSQL
+* Backend Architecture
+* Clean Code
 * Docker
-* DevOps Basics
-* AI & Machine Learning
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-* GitHub: https://github.com/bekhdev
+<p align="center">
+
+<a href="https://github.com/bekhdev">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
-> *"Code. Learn. Improve. Repeat."* 🚀
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### Keep Learning • Keep Building • Keep Growing 🚀
+
+</div>
